@@ -1,0 +1,14 @@
+body {
+background-image: url(https://static.vecteezy.com/system/resources/previews/017/551/368/non_2x/many-prints-of-dog-paws-and-bones-on-white-background-pattern-for-design-vector.jpg);
+text-align: center;
+}
+
+#contenedor{
+margin-top: 10%;
+}
+
+h1{
+background-color: white;
+margin-left: 30%;
+margin-right: 30%;
+}
